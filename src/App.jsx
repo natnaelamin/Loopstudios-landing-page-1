@@ -12,7 +12,7 @@ function App() {
   const visibility = () => {
     setIsVisible(!isVisible)
   }
-  console.log(isVisible)
+  
   
 
   const choose = ['About', 'Careers', 'Events', 'Products', 'Support'];
